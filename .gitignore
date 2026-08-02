@@ -1,0 +1,36 @@
+# Visual Studio 缓存和临时文件
+.vs/
+*.ipch
+*.sdf
+*.opendb
+*.db
+*.suo
+*.user
+*.userosscache
+
+# 编译输出目录
+Debug/
+Release/
+x64/
+x86/
+Win32/
+build/
+
+# 编译产物
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.log
+
+# IDE 配置（如果用 VS Code）
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 性能测试日志
+*.perf
+*.log
