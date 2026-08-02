@@ -1,0 +1,8 @@
+﻿  test.cpp
+C:\code\c++\memory-pool\memory-pool.h(54,54): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+C:\code\c++\memory-pool\memory-pool.h(66,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+  memory-pool.vcxproj -> C:\code\c++\memory-pool\x64\Debug\memory-pool.exe
